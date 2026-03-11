@@ -1,1 +1,4 @@
-.table thead {background-color: green;}
+/* Make table header green */
+table thead {
+    background-color: green !important;
+}
