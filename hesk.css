@@ -1,4 +1,5 @@
-/* Make table header green */
-table thead {
+/* Make table header green in HESK admin */
+.table > thead > tr > th {
     background-color: green !important;
+    color: white !important;  /* Optional: makes text readable */
 }
